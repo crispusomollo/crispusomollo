@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crispusomollo
-- 👀 I’m interested in developing secure application systems
-- 🌱 I’m currently learning JSON, Flask and Laravel
+- 👀 I’m interested in developing and implementing secure application systems
+- 🌱 I’m currently learning JSON, Flask and Laravel frameworks
 - 💞️ I’m looking to collaborate on API integration
 - 📫 Email me - crispusomollo@gmail.com
 
