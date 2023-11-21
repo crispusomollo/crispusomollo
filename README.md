@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crispusomollo
-- 👀 I’m interested in developing and implementing secure robust application systems
-- 🌱 I’m currently learning React, Vue, Django, Flask and Laravel frameworks
-- 💞️ I’m looking to collaborate on API development and integration
+- 👀 I’m interested in developing and implementing secure robust application systems.
+- 🌱 I’m currently learning React, Vue, Django, Flask and Laravel frameworks.
+- 💞️ I’m looking to collaborate on API development and integration.
 - 📫 Email me for SQL, Oracle and Wordpress solutions.
 
 <!---
