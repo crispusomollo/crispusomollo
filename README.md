@@ -2,6 +2,8 @@
 
 🔧 **Systems Administrator | Database Administrator | Certified Software Engineer**
 
+I'm an IT professional with a strong focus on Oracle Database Administration, Systems Security & Hardening, Process Optimization, and Python Automation. I enjoy building resilient, secure infrastructure and automating the boring stuff to improve operational efficiency.
+
 ---
 
 👀 **Interests:**  
@@ -17,7 +19,8 @@ Infrastructure Automation & Monitoring Tools, Secure API Development, System Har
 - Engage me for:  
   - Oracle Database Administration  
   - Systems Security & Hardening    
-  - IT Process Improvement Strategies  
+  - IT Process Improvement Strategies
+  - Python scripting and Automation  
  
 - 📧 Email: crispusomollo@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/crispusomollo)
