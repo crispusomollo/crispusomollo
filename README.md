@@ -8,16 +8,15 @@
 Systems Administration, Database Management (Oracle, MySQL, PostgreSQL), Process Improvement & Automation, Systems & Network Security, Scalable API Development  
 
 🌱 **Currently Growing In:**  
-Advanced Infrastructure Monitoring & Automation, Cloud Services (OCI, AWS, Azure), Secure DevOps Practices, ITIL & Process Optimization  
+Advanced Infrastructure Monitoring & Automation, Cloud Services (OCI, AWS, Azure), Secure DevOps Practices, ITIL & Process Optimization, Active Directory & Identity Management  
 
 💼 **Looking to Collaborate On:**  
 Infrastructure Automation & Monitoring Tools, Secure API Development, System Hardening and Security Audits, Database Optimization & Maintenance Scripts  
 
 📫 **Let’s Connect:**  
-- Email me for:  
+- Engage me for:  
   - Oracle Database Administration  
-  - Systems Security & Hardening  
-  - Active Directory & Identity Management  
+  - Systems Security & Hardening    
   - IT Process Improvement Strategies  
  
 - 📧 Email: crispusomollo@gmail.com  
