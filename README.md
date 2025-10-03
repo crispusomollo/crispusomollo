@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm @crispusomollo
+# 👋 Hi there, I'm Crispus Omollo
 
 🔧 **Systems Administrator | Database Administrator | Certified Software Engineer**
 
