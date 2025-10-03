@@ -29,7 +29,6 @@ Infrastructure Automation & Monitoring Tools, Secure API Development, System Har
 🧾 **Certifications:**  
 - ✅ Certified Software Engineer  
 - ✅ Oracle Cloud Infrastructure Associates  
-- ✅ ITIL Foundation  
 - ✅ Certified CyberSecurity Technician
 
 ---
