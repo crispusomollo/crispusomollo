@@ -48,12 +48,6 @@
 ---
 
 🌟 **Highlighted Projects:**  
-### 📘 Oracle DBA Lab Portfolio  
-A project that reflects my evolving technical journey—from software engineering into systems and database administration, process improvement, and security.  
-
-🔗 GitHub: [github.com/crisoriki/README.md](https://github.com/crisoriki/crisoriki)
-
----
 
 ### 🧪 Oracle DBA Lab Portfolio  
 A hands-on portfolio showcasing practical Oracle Database Administration skills in a lab environment. This project covers core DBA tasks including:
@@ -68,24 +62,6 @@ A hands-on portfolio showcasing practical Oracle Database Administration skills 
 
 📌 Demonstrates deep understanding of Oracle DB internals and aligns with industry best practices for production-level DBA tasks.  
 🔗 GitHub: [github.com/crispusomollo/oracle-dba-lab-portfolio](https://github.com/crispusomollo/oracle-dba-lab-portfolio)
-
----
-
-### 🔐 SecureSys Audit Tool  
-*An internal system audit tool that detects misconfigurations and enforces compliance policies.*  
-🔗 GitHub: [github.com/crisoriki/securesys-audit](https://github.com/crisoriki/securesys-audit)
-
----
-
-### 📊 DBHealthMonitor  
-*A custom dashboard for real-time database performance metrics and alerts.*  
-🔗 GitHub: [github.com/crisoriki/dbhealthmonitor](https://github.com/crisoriki/dbhealthmonitor)
-
----
-
-### ⚙️ API AutoGen Framework  
-*A lightweight framework for generating secure RESTful APIs with built-in authentication.*  
-🔗 GitHub: [github.com/crisoriki/api-autogen](https://github.com/crisoriki/api-autogen)
 
 ---
 
