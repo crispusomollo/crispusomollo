@@ -5,23 +5,13 @@
 ---
 
 👀 **Interests:**  
-- Systems Administration  
-- Database Management (Oracle, MySQL, PostgreSQL)  
-- Process Improvement & Automation  
-- Systems & Network Security  
-- Scalable API Development  
+Systems Administration, Database Management (Oracle, MySQL, PostgreSQL), Process Improvement & Automation, Systems & Network Security, Scalable API Development  
 
 🌱 **Currently Growing In:**  
-- Advanced Infrastructure Monitoring & Automation  
-- Cloud Services (OCI, AWS, Azure)  
-- Secure DevOps Practices  
-- ITIL & Process Optimization  
+Advanced Infrastructure Monitoring & Automation, Cloud Services (OCI, AWS, Azure), Secure DevOps Practices, ITIL & Process Optimization  
 
 💼 **Looking to Collaborate On:**  
-- Infrastructure Automation & Monitoring Tools  
-- Secure API Development  
-- System Hardening and Security Audits  
-- Database Optimization & Maintenance Scripts  
+Infrastructure Automation & Monitoring Tools, Secure API Development, System Hardening and Security Audits, Database Optimization & Maintenance Scripts  
 
 📫 **Let’s Connect:**  
 - Email me for:  
