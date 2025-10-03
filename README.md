@@ -19,10 +19,7 @@ Infrastructure Automation & Monitoring Tools, Secure API Development, System Har
   - Systems Security & Hardening  
   - Active Directory & Identity Management  
   - IT Process Improvement Strategies  
-
----
-
-📫 **Let’s Connect:**  
+ 
 - 📧 Email: crispusomollo@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/crispusomollo)
 - 🌍 [Portfolio Website](https://yourportfolio.com)
@@ -40,15 +37,7 @@ Infrastructure Automation & Monitoring Tools, Secure API Development, System Har
 🌟 **Highlighted Projects:**  
 
 ### 🧪 Oracle DBA Lab Portfolio  
-A hands-on portfolio showcasing practical Oracle Database Administration skills in a lab environment. This project covers core DBA tasks including:
-
-- Database installation & configuration  
-- Backup and recovery (RMAN)  
-- Performance tuning  
-- User and role management  
-- Data pump and export/import utilities  
-- Tablespace and storage management  
-- Patch management and upgrades
+A hands-on portfolio showcasing practical Oracle Database Administration skills in a lab environment. This project covers core DBA tasks including: Database installation & configuration, Backup and recovery (RMAN), Performance tuning, User and role management, Data pump and export/import utilities, Tablespace and storage management, Patch management and upgrades
 
 📌 Demonstrates deep understanding of Oracle DB internals and aligns with industry best practices for production-level DBA tasks.  
 🔗 GitHub: [github.com/crispusomollo/oracle-dba-lab-portfolio](https://github.com/crispusomollo/oracle-dba-lab-portfolio)
