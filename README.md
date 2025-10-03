@@ -28,17 +28,10 @@ Infrastructure Automation & Monitoring Tools, Secure API Development, System Har
 
 ---
 
-🧾 **Certifications:**  
-- ✅ Certified Software Engineer  
-- ✅ Oracle Cloud Infrastructure Associates  
-- ✅ Certified CyberSecurity Technician
-
----
-
 🌟 **Highlighted Projects:**  
 
 ### 🧪 Oracle DBA Lab Portfolio  
-A hands-on portfolio showcasing practical Oracle Database Administration skills in a lab environment. This project covers core DBA tasks including: Database installation & configuration, Backup and recovery (RMAN), Performance tuning, User and role management, Data pump and export/import utilities, Tablespace and storage management, Patch management and upgrades
+A hands-on portfolio showcasing practical Oracle Database Administration skills in a lab environment.
 
 📌 Demonstrates deep understanding of Oracle DB internals and aligns with industry best practices for production-level DBA tasks.  
 🔗 GitHub: [github.com/crispusomollo/oracle-dba-lab-portfolio](https://github.com/crispusomollo/oracle-dba-lab-portfolio)
