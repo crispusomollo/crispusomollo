@@ -2,12 +2,12 @@
 
 🔧 **Systems Administrator | Database Administrator | Certified Software Engineer**
 
-I'm an IT professional with a strong focus on Oracle Database Administration, Systems Security & Hardening, Process Optimization, and Python Automation. I enjoy building resilient, secure infrastructure and automating the boring stuff to improve operational efficiency.
+I'm an IT professional with a strong focus on ITIL-aligned Process Optimization, Systems Security & Hardening, Oracle Database Administration and Python Automation. I enjoy building resilient, secure infrastructure and automating the boring stuff to improve operational efficiency.
 
 ---
 
 👀 **Interests:**  
-Systems Administration, Database Management (Oracle, MySQL, PostgreSQL), Process Improvement & Automation, Systems & Network Security, Scalable API Development  
+Systems Administration, Database Management (Oracle, SQL Server, MySQL, PostgreSQL), Process Improvement & Automation, Systems & Network Security, Scalable API Development  
 
 🌱 **Currently Growing In:**  
 Advanced Infrastructure Monitoring & Automation, Cloud Services (OCI, AWS, Azure), Secure DevOps Practices, ITIL & Process Optimization, Active Directory & Identity Management  
