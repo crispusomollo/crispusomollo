@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Crispus Omollo
 
-🔧 **Systems Administrator | Database Administrator | Certified Software Engineer**
+🔧 **Automating Infrastructure | Hardening Systems | Streamlining IT Operations**
 
 I'm an IT professional with a strong focus on ITIL-aligned Process Optimization, Systems Security & Hardening, Oracle Database Administration and Python Automation. I enjoy building resilient, secure infrastructure and automating the boring stuff to improve operational efficiency.
 
