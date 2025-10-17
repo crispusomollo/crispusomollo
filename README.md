@@ -17,10 +17,11 @@ Infrastructure Automation & Monitoring Tools, Secure API Development, System Har
 
 📫 **Let’s Connect:**  
 - Engage me for:  
-  - Oracle Database Administration  
-  - Systems Security & Hardening    
+  - Systems Reliability Engineering (SRE)  
+  - Systems Security and Hardening    
   - IT Process Improvement Strategies
-  - Python scripting and Automation  
+  - Python scripting and Automation
+  - Systems and Database Administration 
  
 - 📧 Email: crispusomollo@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/crispusomollo)
