@@ -29,6 +29,10 @@ Infrastructure Automation & Monitoring Tools, Secure API Development, System Har
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crispusomollo&show_icons=true&theme=default)
+
+---
+
 🌟 **Highlighted Projects:**  
 
 ### 🧪 Oracle DBA Lab Portfolio  
