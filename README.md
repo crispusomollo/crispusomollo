@@ -30,6 +30,9 @@ Infrastructure Automation & Monitoring Tools, Secure API Development, System Har
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crispusomollo&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crispusomollo&layout=compact&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=crispusomollo&style=for-the-badge)
 
 ---
 
