@@ -2,7 +2,7 @@
 
 🔧 **Automating Infrastructure | Hardening Systems | Streamlining IT Operations**
 
-I'm an IT professional with a strong focus on ITIL-aligned Process Optimization, Systems Security & Hardening, Oracle Database Administration and Python Automation. I enjoy building resilient, secure infrastructure and automating the boring stuff to improve operational efficiency. I help you reclaim time, boost productivity, and stay in your zone of genius by handling the tasks that slow you down. 
+I am an IT professional with a strong focus on ITIL-aligned Process Optimization, Systems Security & Hardening, Oracle Database Administration and Python Automation. I enjoy building resilient, secure infrastructure and automating the boring stuff to improve operational efficiency. I help you reclaim time, boost productivity, and stay in your zone of genius by handling the tasks that slow you down. 
 
 ---
 
