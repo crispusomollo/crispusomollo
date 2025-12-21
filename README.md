@@ -6,21 +6,11 @@ I'm an IT professional with a strong focus on ITIL-aligned Process Optimization,
 
 ---
 
-👀 **Interests:**  
-Systems Administration, Database Management (Oracle, SQL Server, MySQL, PostgreSQL), Process Improvement & Automation, Systems & Network Security, Scalable API Development  
-
-🌱 **Currently Growing In:**  
-Advanced Infrastructure Monitoring & Automation, Cloud Services (OCI, AWS, Azure), Secure DevOps Practices, ITIL & Process Optimization, Active Directory & Identity Management  
-
-💼 **Looking to Collaborate On:**  
-Infrastructure Automation & Monitoring Tools, Secure API Development, System Hardening and Security Audits, Database Optimization & Maintenance Scripts  
-
 📫 **Let’s Connect:**  
-- Engage me for:  
-  - Systems Reliability Engineering (SRE)  
-  - Systems Security and Hardening    
+- Engage me for:    
+  - Systems Security and Hardening
+  - Python scripting and Automation    
   - IT Process Improvement Strategies
-  - Python scripting and Automation
   - Systems and Database Administration 
  
 - 📧 Email: crispusomollo@gmail.com  
