@@ -21,7 +21,7 @@ I am an IT professional with a strong focus on ITIL-aligned Process Optimization
 
 A hands-on portfolio showcasing practical Oracle Database Administration skills in a lab environment.
 
-📌 📌 Built to show **foundational strength and technical depth** expected of a professional Oracle DBA.  
+📌 Built to show **foundational strength and technical depth** expected of a professional Oracle DBA.  
 🔗 GitHub: [github.com/crispusomollo/oracle-dba-lab-portfolio](https://github.com/crispusomollo/oracle-dba-lab-portfolio)
 
 ---
@@ -48,13 +48,14 @@ Includes projects such as:
 
 * **Oracle Performance Dashboard & Tuning Automation**
 * **Oracle Session & Lock Monitoring Automation**
+* **Oracle Resource Manager Automation**
+* **Oracle Indexing Optimization & Partioning Strategies**
 
 📌 Built to reflect **production-style DBA operations**, with an emphasis on reliability, visibility, and automation.
 
 🔗 GitHub: [github.com/crispusomollo/Oracle-DBA-Automation-Series](https://github.com/crispusomollo/Oracle-DBA-Automation-Series)
 
 ---
-
 
 🚀 Always eager to solve complex problems, optimize systems, and secure environments for better performance and reliability.
 
