@@ -2,7 +2,7 @@
 
 🔧 **Automating Infrastructure | Hardening Systems | Streamlining IT Operations**
 
-I am an IT professional with a strong focus on ITIL-aligned Process Optimization, Systems Security & Hardening, Oracle Database Administration and Python Automation. I enjoy building resilient, secure infrastructure and automating the boring stuff to improve operational efficiency. I help you reclaim time, boost productivity, and stay in your zone of genius by handling the tasks that slow you down. 
+I am an IT professional with a strong focus on ITIL-aligned Process Optimization, Systems Security & Hardening, Database Administration and Python Automation. I enjoy building resilient, secure infrastructure and automating the boring stuff to improve operational efficiency. I help you reclaim time, boost productivity, and stay in your zone of genius by handling the tasks that slow you down. 
 
 ---
 
@@ -15,6 +15,18 @@ I am an IT professional with a strong focus on ITIL-aligned Process Optimization
 
 ## 🌟 Highlighted Projects:  
 
+### 🛡️ Compliance-Aware Database Architecture Lab
+
+**Focus:** Governance, High Availability, and Disaster Recovery
+
+Production-grade PostgreSQL governance lab with MySQL and Oracle control variants.
+
+📌 Demonstrates not only DB administration capability, but compliance architecture maturity and cross-engine governance awareness.
+   
+🔗 GitHub: [github.com/crispusomollo/Compliance-Aware-Infrastructure-Design](https://github.com/crispusomollo/Compliance-Aware-Infrastructure-Design)
+
+---
+
 ### 🧪 Oracle DBA Lab Portfolio  
 
 **Focus:** Core DBA skills, Oracle internals, and administration fundamentals
@@ -23,18 +35,6 @@ A hands-on portfolio showcasing practical Oracle Database Administration skills 
 
 📌 Built to show **foundational strength and technical depth** expected of a professional Oracle DBA.  
 🔗 GitHub: [github.com/crispusomollo/oracle-dba-lab-portfolio](https://github.com/crispusomollo/oracle-dba-lab-portfolio)
-
----
-
-### 🧮 Oracle SQL Portfolio
-
-**Focus:** SQL diagnostics, performance analysis, and tuning
-
-A curated SQL portfolio featuring performance-focused queries, diagnostic SQL, tuning patterns, and real-world DBA troubleshooting use cases.
-
-📌 Demonstrates **how I think about SQL performance**, not just syntax.
-
-🔗 GitHub:  [github.com/crispusomollo/Oracle-SQL-Portfolio](https://github.com/crispusomollo/Oracle-SQL-Portfolio)
 
 ---
 
