@@ -21,7 +21,7 @@ I am an IT professional with a strong focus on ITIL-aligned Process Optimization
 
 Production-grade PostgreSQL governance lab with MySQL and Oracle control variants.
 
-📌 Demonstrates not only DB administration capability, but compliance architecture maturity and cross-engine governance awareness.
+📌 Demonstrates DB administration capability, compliance architecture maturity and cross-engine governance awareness.
    
 🔗 GitHub: [github.com/crispusomollo/Compliance-Aware-Infrastructure-Design](https://github.com/crispusomollo/Compliance-Aware-Infrastructure-Design)
 
